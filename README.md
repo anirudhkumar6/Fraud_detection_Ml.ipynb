@@ -168,7 +168,7 @@ These limitations are **acknowledged** and planned to be improved in future vers
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <https://github.com/anirudhkumar6/Fraud_detection_Ml.ipynb.git>
+git clone *<https://github.com/anirudhkumar6/Fraud_detection_Ml.ipynb.git>*
 cd fraud_detection_project 
 ```
 
